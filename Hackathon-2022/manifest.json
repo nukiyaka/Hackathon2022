@@ -1,0 +1,12 @@
+{
+    "name": "Study Break Snake Game",
+    "description": "Hackathon Chrome Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+     "default_popup": "board.html",
+    "default_icon": {
+        "1": "src/images/Snake.png"
+          }
+      }
+}

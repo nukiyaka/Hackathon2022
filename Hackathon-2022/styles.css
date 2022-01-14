@@ -1,0 +1,32 @@
+#board {
+    height: 300px;
+    width: 300px;
+    outline: none;
+    margin: none;
+    border: none;
+    border-radius: none;
+    position: relative;
+  }
+  
+  #head {
+    background: black;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    position: absolute;
+  }
+  
+  #apple {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+  }
+  
+  .body {
+    background: black;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    position: absolute;
+  }
+  
